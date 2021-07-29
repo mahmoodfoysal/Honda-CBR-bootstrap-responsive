@@ -1,0 +1,28 @@
+.header-background {
+    background-color:#264653;
+}
+.color-btn{
+    background-color: #E76F51;
+    color: #FFFFFF;
+    width: 164px;
+    height: 44px;
+    font-weight: 500;
+}
+.color-text{
+    color: #E76F51;
+    font-weight: 600;
+}
+.gray-scale-bike{
+    filter: grayscale(100%);
+}
+.star-color{
+    color: white;
+}
+.arrow-btn{
+    width: 35px;
+    background-color: white;
+}
+.an{
+    text-decoration: none;
+    color: black;
+}
