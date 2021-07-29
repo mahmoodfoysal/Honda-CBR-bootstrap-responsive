@@ -1,3 +1,4 @@
+
 .header-background {
     background-color:#264653;
 }
@@ -5,6 +6,13 @@
     background-color: #E76F51;
     color: #FFFFFF;
     width: 164px;
+    height: 44px;
+    font-weight: 500;
+}
+.login-btn{
+    background-color: #E76F51;
+    color: #FFFFFF;
+    width: 91px;
     height: 44px;
     font-weight: 500;
 }
@@ -25,4 +33,7 @@
 .an{
     text-decoration: none;
     color: black;
+}
+.footer-bg{
+    background-color: #0B0D17;
 }
